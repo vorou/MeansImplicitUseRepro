@@ -1,0 +1,7 @@
+<assembly name="SimpleContainer">
+    <member name="T:SimpleContainer.Infection.InjectAttribute">
+        <attribute ctor="M:JetBrains.Annotations.MeansImplicitUseAttribute.#ctor(JetBrains.Annotations.ImplicitUseKindFlags)">
+            <argument>2</argument>
+        </attribute>
+    </member>
+</assembly>
