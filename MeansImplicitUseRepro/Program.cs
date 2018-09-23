@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 using SimpleContainer.Infection;
+// ReSharper disable InconsistentNaming
 
 namespace MeansImplicitUseRepro
 {
